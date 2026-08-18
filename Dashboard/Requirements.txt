@@ -1,0 +1,10 @@
+Requirements:
+
+streamlit
+pandas
+numpy
+openpyxl
+plotly
+
+
+

@@ -8,7 +8,7 @@ st.set_page_config(
 )
 @st.cache_data
 def load_data():
-    return pd.read_excel("Data/ServeUP_data (2).xlsx")
+    return pd.read_excel("Data/ServeUp_data.xlsx")
 df = load_data()
 st.title("🍽️ JUPENTA ServeUp Market Intelligence Dashboard")
 st.markdown(""" ### Competitor Analysis for Food Business Operating System 

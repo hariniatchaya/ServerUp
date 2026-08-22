@@ -1,5 +1,8 @@
 ## ServerUP - Restaurant Technology Competitor Analysis
 ServerUP is a **data analytics project** that analyzes leading restaurant technology and POS (Point of Sale) solution providers. The project focuses on identifying competitors, comparing their features, strengths, weaknesses, pricing, and market positioning to uncover opportunities for ServerUP.
+## ServerUP
+## Streamlit ServerUP ##  
+https://serverup-fbrq9hjtuo7wgwtnegbudm.streamlit.app/ 
 ## Project Overview
 The restaurant technology market has become increasingly competitive with companies offering POS systems, inventory management, QR menus, analytics, loyalty programs, and online ordering solutions.
 This project aims to:
@@ -67,10 +70,6 @@ The project includes several visualizations such as:
 - Target Customer Analysis
 - Category Comparison Charts
 ## Key Metrics
-### Gap Score
-Measures missing functionality in competitor products.
-Gap Score = Total Features − Available Features
-Lower Gap Score indicates a more feature-rich solution.
 ### Review Score
 Measures overall competitive advantage.
 Review Score = Strength Count − Weakness Count
@@ -91,4 +90,4 @@ Higher Review Score indicates stronger market positioning.
 - Market share estimation
 - Automated report generation
 ## Author
-**Harini Atchaya**
+Harini Atchaya | Aspiring Data Analyst
